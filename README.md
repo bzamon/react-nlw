@@ -1,3 +1,7 @@
+# Projeto utilizando React
+
+Esse projeto foi desenvolvido com os conteúdos das aulas do [nlw 6](https://nextlevelweek.com): trilha React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
